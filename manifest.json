@@ -1,7 +1,8 @@
 {
     "version": 1,
     "type": "repository",
-    "contents": {
+    "locator": ".",
+    "packages": {
         "com": {
             "type": "repository",
             "repository": "."

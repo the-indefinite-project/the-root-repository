@@ -1,7 +1,8 @@
 {
     "version": 1,
     "type": "repository",
-    "contents": {
+    "locator": "com",
+    "packages": {
         "discord": {
             "type": "package",
             "repository": "."

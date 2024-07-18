@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "type": "repository",
+    "locator": "com.discord",
+    "packages": {
+        "stable": {
+            "type": "package",
+            "repository": "."
+        },
+        "canary": {
+            "type": "package",
+            "repository": "."
+        },
+        "ptb": {
+            "type": "package",
+            "repository": "."
+        }
+    }
+}

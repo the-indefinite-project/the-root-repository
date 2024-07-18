@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "type": "package",
+    "locator": "com.discord.canary",
+    "downloads": [
+        "https://canary.discord.com/api/download?platform=linux&format=tar.gz"
+    ],
+    "unpacker": "targz"
+}
